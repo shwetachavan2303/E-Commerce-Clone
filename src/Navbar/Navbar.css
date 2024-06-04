@@ -1,0 +1,13 @@
+.navbar{
+    height: 60px;
+    width: 100%;
+    background-color: black;
+    color: antiquewhite;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 120px;
+    font-size: large;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
